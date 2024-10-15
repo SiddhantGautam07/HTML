@@ -8,3 +8,4 @@
 - Node
 - Nodejs
 - Reactjs
+- Git and GitHub
